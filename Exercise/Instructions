@@ -4,5 +4,5 @@ Instructions
 Create a logging_decorator() which is going to log the name of the function that was called, the arguments it was given and finally the returned output.
 
 Expected Output
-![img1](https://raw.githubusercontent.com/ajinkyahk/Python-Coding-Exercise/master/Exercise/img1.png)
+![img1](./img1.png)
 
