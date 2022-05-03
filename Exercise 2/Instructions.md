@@ -4,3 +4,14 @@ This is because some of the posts in the facebook_posts don't have any "Likes".
 
 Bad Output
 <img src="./img1.png" raw=true/>
+
+
+
+Instructions
+Use what you've learnt about exception handling to prevent the program from crashing.
+
+Hint
+You'll need to catch the KeyError exception.
+Posts without any likes can be counted as 0 likes.
+Test Your Code
+Check your code is doing what it is supposed to
