@@ -24,4 +24,4 @@ You will need to complete the speed_calc_decorator() function.
 
 Expected Output
 
-
+<img src="./img 1.png" raw=true />
